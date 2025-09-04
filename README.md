@@ -5,7 +5,7 @@ This repository serves as a map for all NFTAA-related repositories and links.
 - [nftaa.xyz](https://nftaa.xyz) — [Website repository](https://github.com/decenzio/nftaa-website)  
 - [Pallet documentation (Wiki)](https://deepwiki.com/decenzio/pallet-nftaa)
 
-## Infrastracture
+## Infrastracture (feel free to use for testing)
 - node.nftaa.xyz – our polkadot‑sdk node that includes the pallet‑nftaa
 - indexer.nftaa.xyz – a custom indexer with pallet‑nftaa integration
 - [koda.nftaa.xyz](https://koda.nftaa.xyz/) – a fork of the [Kodadot marketplace](https://kodadot.xyz/) featuring front‑end integration for NFTAA
