@@ -18,3 +18,7 @@ This repository serves as a map for all NFTAA-related repositories and links.
 
 ## Pallet Source Code
 - [pallet-nftaa](https://github.com/decenzio/pallet-nftaa)
+
+## Videos
+- [NFTAA Devnet video showcase](https://youtu.be/WVCoaLYoxes)
+- [How to run NFTAA e2e integration on localhost](https://youtu.be/tz9PNhU0TKY)
